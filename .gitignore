@@ -1,0 +1,26 @@
+# venv
+venv/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# secrets
+.env
+
+# commercial IDs
+ids.csv
+
+# artifacts
+*.xlsx
+run.log
+screenshots/
+bitrix_2025_report.xlsx
+
+# browser profiles
+chrome_profile/
+yandex_profile/
+User Data - Playwright/
+
